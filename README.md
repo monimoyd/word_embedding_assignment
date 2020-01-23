@@ -1,7 +1,7 @@
 # word_embedding_assignment
 Word Embedding Assignment
 
-In this assignment , I have to
+In this assignment , we have to
 * Download the IMDB dataset
 * Tokenize the records and create train and validation datasets
 * Download the Glove pretrained Word Embedding
@@ -33,8 +33,14 @@ Epoch 9/10
 Epoch 10/10
 8000/8000 [==============================] - 1s 115us/step - loss: 0.1520 - acc: 0.9410 - val_loss: 0.9063 - val_acc: 0.7626
 
-Training and Validation Plots
-![Training and Validation Plots](https://github.com/monimoyd/word_embedding_assignment/blob/master/train_validation_graph.png)
+Plots are as loss and accuracy are below:
+
+![Training and Validation Loss Plots](https://github.com/monimoyd/word_embedding_assignment/blob/master/train_validation_loss_plot.png)
+
+![Training and Validation Accuracy Plot](https://github.com/monimoyd/word_embedding_assignment/blob/master/train_validation_accuracy_plot.png)
+
+
+Best validation accuracy: 76.98
 
 
 
