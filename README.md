@@ -33,7 +33,7 @@ Epoch 9/10
 Epoch 10/10
 8000/8000 [==============================] - 1s 115us/step - loss: 0.1520 - acc: 0.9410 - val_loss: 0.9063 - val_acc: 0.7626
 
-Plots are as loss and accuracy are below:
+Plots for loss and accuracy for training and validation datasets are as below:
 
 ![Training and Validation Loss Plots](https://github.com/monimoyd/word_embedding_assignment/blob/master/train_validation_loss_plot.png)
 
